@@ -22,11 +22,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Wakodono/m4-d7-Hooks-Bookstore.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd m4-d7-Hooks-Bookstore
     ```
 3. Install the dependencies:
     ```sh
